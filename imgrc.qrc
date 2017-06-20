@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FLViewer.ico</file>
+    </qresource>
+</RCC>
